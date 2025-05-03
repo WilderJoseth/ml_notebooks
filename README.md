@@ -1,6 +1,8 @@
 # Machine learning_notebooks
 
-This repository storeds machine learning projects using notebooks.
+This repository storeds machine learning projects using notebooks with python. It explores how to use traditional machine learning algorithms using scikit-learn and deep learning with PyTorch and TensorFlow.
+
+In addition to that, try to cover the machine learning lifecycle going through steps like data collection, data cleaning, exploratory data analysis, training and testing models.
 
 ## 1. Supervised
 
@@ -12,12 +14,15 @@ This repository storeds machine learning projects using notebooks.
 * Customer segmentation
 * Fake news detection
 * IMDB movie reviews
-* OTTO multiple objective
 * Student performance learning style
 * DataScience Bowl Kaggle
 * Dog breed identification
 * Titanic Kaggle
 * US patent phrase to phrase matching
+
+#### 1.1.2. No Tabular
+
+* OTTO multiple objective
 
 ### 1.2. Regression
 
