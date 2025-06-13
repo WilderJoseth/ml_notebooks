@@ -4,3 +4,4 @@
 tests
 *\mlruns
 *\mlartifacts
+*\mlflow_tracking
